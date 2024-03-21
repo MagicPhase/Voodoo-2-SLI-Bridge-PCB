@@ -9,7 +9,8 @@
 
 Requirements:
 
-* 2 x 40mm 12V fans. 
+* 2 x 40mm 12V fans.
+* 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
 * 8 x LEDs (PN: 155124RS73200) surface mount right-angle type. [https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041)
 * 2 x 0805 SMD resistors. (220 ohms for 4 LED chain on 12V)
 * 2 x Right-Angle 3 pin 2.54mm pitch pin header. (Top fan header connections - [https://www.sparkfun.com/products/18986](https://www.sparkfun.com/products/18986))
