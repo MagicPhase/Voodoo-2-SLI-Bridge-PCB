@@ -18,7 +18,7 @@ Requirements:
 * * [https://www.digikey.com/en/products/detail/molex/0022232031/26669](https://www.digikey.com/en/products/detail/molex/0022232031/26669)
   * or
   * [https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A/1651046](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A/1651046)
-  * Don't forget to plan how to get power to the PCB. (3 pins fan cable. Female to female or make a cable for the JST connector you choose!)
+  * Don't forget to plan how to get power to the PCB. (3 pin fan cable, female to female or make a cable for the JST connector you choose!)
    
 ## 2: 20mm SLI-Bridge LED Logo<br>
 Requirements:
