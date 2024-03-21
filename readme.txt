@@ -1,1 +1,1 @@
-Voodoo 2 SLI Bridge PCB
+*** Voodoo 2 SLI Bridge PCB
