@@ -22,7 +22,16 @@ Requirements:
   * Don't forget to plan how to get power to the PCB. (3 pin fan cable, female to female or make a cable for the JST connector you choose!)
    
 ## 2: 20mm SLI-Bridge LED Logo<br>
+
+|![20mm_Q1](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/fa047c34-f674-4634-a540-4a44aada0724) [QUAKE](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_QUAKE.zip)|![20mm_Q2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/28d678ae-c723-4ccd-8f75-d75a4827fb38) [QUAKE2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_QUAKE2.zip)|![20mm_D1](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/eef26bc8-83bf-41f3-8d65-21244890fece) [DOOM](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_DOOM.zip)|![20mm_D2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/8a9c2d1a-013e-4919-aea9-5a53acbdc786) [DOOM2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_DOOM2.zip)|
+| :---: | :---: | :---: | :---: |
+
 Requirements:
+
+* 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
+* 8 x LEDs (9 LEDs for the QUAKE2 bridge!) (PN: 155124RS73200) surface mount right-angle type. [https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041)
+* 2 x 0805 SMD resistors. (220 ohms for 4 LED chain on 12V) - (QUAKE2 sub one resistor for 120 ohm on the 5 LED chain!)
+* 1 x JST ZH 2 pin SMD socket - [https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600). You'll need a female ZH to 3 pin fan header cable. be aware and double check polarity!
 
 ## 3: 40mm SLI-Bridge (1 PCI Spacer) No LED<br>
 Requirements:
