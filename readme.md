@@ -31,7 +31,7 @@ Requirements:
 * 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
 * 8 x LEDs (9 LEDs for the QUAKE2 bridge!) (PN: 155124RS73200) surface mount right-angle type. [https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/155124RS73200/4490041)
 * 2 x 0805 SMD resistors. (220 ohms for 4 LED chain on 12V) - (QUAKE2 sub one resistor for 120 ohm on the 5 LED chain!)
-* 1 x JST ZH 2 pin SMD socket - [https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600). You'll need a female ZH to 3 pin fan header cable. be aware and double check polarity!
+* 1 x JST ZH 2 pin SMD socket - [https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600). You'll need a female ZH to 3 pin fan header cable to power the LEDs. Be aware and double-check polarity!
 
 ## 3: 40mm SLI-Bridge (1 PCI Spacer) No LED<br>
 Requirements:
