@@ -41,6 +41,8 @@ Requirements:
 
 ### [VOODOO2_SLI_60MM_ANIMATED_v1.1.zip](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/60MM/VOODOO2_SLI_60MM_ANIMATED_v1.1.zip)
 
+Demo video - [https://www.youtube.com/watch?v=B25BmlSav9U](https://www.youtube.com/watch?v=B25BmlSav9U)
+
 Once assembled, use an ISP programmer like [https://www.sparkfun.com/products/9825](https://www.sparkfun.com/products/9825) or Arduino Uno setup for ISP programming.
 
 Requirements:
