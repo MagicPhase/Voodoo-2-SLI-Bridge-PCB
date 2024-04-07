@@ -38,6 +38,9 @@ Requirements:
 
 # 4: 60mm SLI-Bridge (2 PCI Spacer) LED Logo<br>
 <img src="https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/d9a71dea-862d-4164-8de2-353da02f2abb" width=25% height=25%><br>
+
+### [VOODOO2_SLI_60MM_ANIMATED_v1.1.zip](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/60MM/VOODOO2_SLI_60MM_ANIMATED_v1.1.zip)
+
 Once assembled, use an ISP programmer like [https://www.sparkfun.com/products/9825](https://www.sparkfun.com/products/9825) or Arduino Uno setup for ISP programming.
 
 Requirements:
