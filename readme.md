@@ -37,4 +37,17 @@ Requirements:
 Requirements:
 
 # 4: 60mm SLI-Bridge (2 PCI Spacer) LED Logo<br>
+<img src="https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/d9a71dea-862d-4164-8de2-353da02f2abb" width=25% height=25%><br>
+Once assembled, use an ISP programmer like [https://www.sparkfun.com/products/9825](https://www.sparkfun.com/products/9825) or Arduino Uno setup for ISP programming.
+
 Requirements:
+
+* 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
+* 8 x 4691 neopixle LED. [https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955)
+* 1 x 0805 10uf 25v SMD Ceramic Capacitor. [https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC71E106ME11L/5027582](https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC71E106ME11L/5027582)
+* 3 x 0603 1uf 10v SMD Ceramic Capacitor. [https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B105KP8NNNC/3887604](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B105KP8NNNC/3887604)
+* 1 x 0402 50ohm SMD resistor. [https://www.digikey.com/en/products/detail/yageo/AC0402JR-0750RL/5895686](https://www.digikey.com/en/products/detail/yageo/AC0402JR-0750RL/5895686)
+* 1 x 5V regulator AMS1117-5.0 or equivalent (SOT-223). [https://www.amazon.com/Bridgold-AMS1117-5-0-AMS1117-5-0V-Regulator-Voltage/dp/B07NYQHQSJ](https://www.amazon.com/Bridgold-AMS1117-5-0-AMS1117-5-0V-Regulator-Voltage/dp/B07NYQHQSJ)
+* 1 x ATTINY85-20MU microcontroller. [https://www.mouser.com/ProductDetail/556-ATTINY85-20MU](https://www.mouser.com/ProductDetail/556-ATTINY85-20MU)
+* 1 x JST ZH 2 pin SMD socket - [https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-ZR-SM4A-TF/926600). You'll need a female ZH to 3 pin fan header cable to power the LEDs. Be aware and double-check polarity!
+
