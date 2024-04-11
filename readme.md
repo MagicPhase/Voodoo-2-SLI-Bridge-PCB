@@ -26,6 +26,8 @@ Requirements:
 |![20mm_Q1](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/fa047c34-f674-4634-a540-4a44aada0724) [QUAKE](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_QUAKE.zip)|![20mm_Q2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/28d678ae-c723-4ccd-8f75-d75a4827fb38) [QUAKE2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_QUAKE2.zip)|![20mm_D1](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/eef26bc8-83bf-41f3-8d65-21244890fece) [DOOM](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_DOOM.zip)|![20mm_D2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/8a9c2d1a-013e-4919-aea9-5a53acbdc786) [DOOM2](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_DOOM2.zip)|
 | :---: | :---: | :---: | :---: |
 
+###  ! Important to OPT OUT of manufacturer serialization ! Otherwise, you may get an ugly serial number across the PCB face. Check with your manufacture. 
+
 Requirements:
 
 * 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
@@ -44,6 +46,8 @@ Requirements:
 Demo video - [https://www.youtube.com/watch?v=B25BmlSav9U](https://www.youtube.com/watch?v=B25BmlSav9U)
 
 Once assembled, use an ISP programmer like [https://www.sparkfun.com/products/9825](https://www.sparkfun.com/products/9825) or Arduino Uno setup for ISP programming.
+
+###  ! Important to OPT OUT of manufacturer serialization ! Otherwise, you may get an ugly serial number across the PCB face. Check with your manufacture. 
 
 Requirements:
 
