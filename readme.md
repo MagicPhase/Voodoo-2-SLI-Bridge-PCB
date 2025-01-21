@@ -51,7 +51,7 @@ Once assembled, use an ISP programmer like [https://www.sparkfun.com/products/98
 Requirements:
 
 * 2 x 34 pin (2 x 17) Female header. If using a "keyed" header, be aware of the pin 1 location! [https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
-* 8 x 4691 neopixle LED. [https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955)
+* 8 x 4691 neopixle LEDs. [https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955) (They come in packs of 10!)
 * 1 x 0805 10uf 25v SMD Ceramic Capacitor. [https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC71E106ME11L/5027582](https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC71E106ME11L/5027582)
 * 3 x 0603 1uf 10v SMD Ceramic Capacitor. [https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B105KP8NNNC/3887604](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B105KP8NNNC/3887604)
 * 1 x 0402 50ohm SMD resistor. [https://www.digikey.com/en/products/detail/yageo/AC0402JR-0750RL/5895686](https://www.digikey.com/en/products/detail/yageo/AC0402JR-0750RL/5895686)
