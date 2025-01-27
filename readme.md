@@ -4,7 +4,7 @@
 
 # 1: 20mm SLI-Bridge *Fan Carrier with LED Logo<br>
 <img src="https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/assets/104283546/ec9efb5c-6200-4ec8-bff4-0318c89426ba" width=33% height=33%><br>
-### [VOODOO2_SLI_20MM_FAN_CARRIER.zip](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_FAN_CARRIER_V2.2.zip) - Production Gerber file.<br>
+### [VOODOO2_SLI_20MM_FAN_CARRIER_V2.2.zip](https://github.com/MagicPhase/Voodoo-2-SLI-Bridge-PCB/blob/main/GERBER/20MM/VOODOO2_SLI_20MM_FAN_CARRIER_V2.2.zip) - Production Gerber file.<br>
 ###  ! Important to OPT OUT of manufacturer serialization! Otherwise, you may get an ugly serial number across the PCB face. Check with your manufacture. 
 
 Requirements:
