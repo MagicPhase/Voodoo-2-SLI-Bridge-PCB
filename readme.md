@@ -1,6 +1,6 @@
 For those that are interested in an assembled SLI fan bridge, check my eBay -> https://www.ebay.com/usr/tevianbusselle.
 
-<img src="https://github.com/user-attachments/assets/35a08044-012e-441d-85b3-1200430af281" width=65% height=65%><br>
+<img src="https://github.com/user-attachments/assets/35a08044-012e-441d-85b3-1200430af281" width=20% height=20%><br>
 
 
 # Voodoo 2 SLI-Bridge PCB
